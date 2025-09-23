@@ -105,6 +105,7 @@ GitPython @ file:///C:/b/abs_2bkslnqz4i/croot/gitpython_1720455044865/work
 google-pasta==0.2.0
 greenlet @ file:///C:/b/abs_a6c75ie0bc/croot/greenlet_1702060012174/work
 grpcio==1.73.1
+gunicorn==23.0.0
 h11 @ file:///C:/b/abs_1czwoyexjf/croot/h11_1706652332846/work
 h5py @ file:///C:/b/abs_c4ha_1xv14/croot/h5py_1715094776210/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
@@ -407,4 +408,5 @@ zict @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/zict_169954
 zipp @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/zipp_1707493775475/work
 zope.interface @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/zope.interface_1699497164709/work
 zstandard @ file:///C:/b/abs_82dff2ths3/croot/zstandard_1728569207191/work
+
 
