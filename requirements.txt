@@ -1,0 +1,8 @@
+Flask==3.0.3
+gunicorn==23.0.0
+pytube==15.0.0        # for downloading YouTube videos
+requests==2.32.3      # for handling HTTP requests
+Werkzeug==3.0.4       # required by Flask
+click==8.1.7          # CLI support for Flask
+itsdangerous==2.2.0   # Flask dependency
+Jinja2==3.1.4         # Flask templating engine
